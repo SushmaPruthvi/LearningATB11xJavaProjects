@@ -8,7 +8,7 @@ public class CLI_Task_01 {
         String Age = args[1];
         String Salary = args[2];
          int age = Integer.parseInt(Age);
-         int salary = Integer.parseInt(Salary);
+         Double salary = Double.parseDouble(Salary);
 
         System.out.println(Name);
         System.out.println(age);
