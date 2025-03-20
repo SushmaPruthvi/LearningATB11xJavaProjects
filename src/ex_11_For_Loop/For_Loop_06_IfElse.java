@@ -1,6 +1,6 @@
 package ex_11_For_Loop;
 
-public class For_Loop_IfElse_06 {
+public class For_Loop_06_IfElse {
     public static void main(String[] args) {
         for(int i=0;i<10;i++)
         {
